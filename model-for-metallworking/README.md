@@ -27,4 +27,4 @@ feed size — размер гранул сырья
 feed rate — скорость подачи  
 
 ### Используемые библиотеки:  
-Pandas, Matplotlib, SciPy, Seaborn, Sklearn, LightGBM
+Pandas, Matplotlib, SciPy, Seaborn, Sklearn
