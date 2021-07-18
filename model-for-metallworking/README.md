@@ -1,3 +1,5 @@
+### [Nbviewer](https://nbviewer.jupyter.org/github/roman-tekarev/yandex-praktikum-projects/blob/main/model-for-metallworking/model-metallworking.ipynb)
+
 ## Подготовка прототипа модели для металлообрабатывающего предприятия
 
 ### Задача:  
@@ -29,3 +31,10 @@ feed rate — скорость подачи
 
 ### Используемые библиотеки:  
 Pandas, Matplotlib, SciPy, Seaborn, Sklearn
+
+### Вывод
+Данные изучены и предобработаны.  
+Был проведен анализ данных.  
+Методами кросс-валидации и поиска гиперпараметров по сетке было изучено три модели (дерево решений, случайный лес, логистическая регрессия).  
+Лучшая модель была выбрана по метрике sMAPE (Symmetric Mean Absolute Percentage Error).  
+Качество модели было проверено на тестовой выборке.  
