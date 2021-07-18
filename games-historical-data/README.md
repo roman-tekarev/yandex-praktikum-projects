@@ -1,3 +1,5 @@
+### [Nbviewer](https://nbviewer.jupyter.org/github/roman-tekarev/yandex-praktikum-projects/blob/main/games-historical-data/games-historical-data.ipynb)
+
 ## Исследование объявлений о продаже квартир
 
 ### Задача:  
@@ -21,3 +23,10 @@ Rating — рейтинг от организации ESRB
 
 ### Используемые библиотеки:  
 Pandas, Matplotlib, SciPy, numpy
+
+### Вывод
+
+Данные предобработаны.  
+Проведен исследовательский анализ данных.   
+Проверены статистические гипотезы.   
+Выявлены закономерности, определяющие успешность игры.    
