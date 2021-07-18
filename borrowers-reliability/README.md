@@ -1,3 +1,6 @@
+### [Nbviewer](https://nbviewer.jupyter.org/github/roman-tekarev/yandex-praktikum-projects/blob/main/borrowers-reliability/borrowers-reliability.ipynb)
+
+
 ## Исследование надежности заемщиков
 
 ### Задача:  
@@ -21,3 +24,6 @@
 
 ### Используемые библиотеки:  
 pandas, pymystem3
+
+### Вывод
+Проведена предобработка, выявлены требуемые закономерности
