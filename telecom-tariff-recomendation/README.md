@@ -1,3 +1,5 @@
+### [Nbviewer](https://nbviewer.jupyter.org/github/roman-tekarev/yandex-praktikum-projects/blob/main/telecom-tariff-recomendation/telecom-tariff-recomendation.ipynb)
+
 ## Рекомендация тарифов
 
 ### Задача:  
@@ -17,3 +19,7 @@ is_ultra — каким тарифом пользовался в течение 
 
 ### Используемые библиотеки:  
 Pandas, Matplotlib, Sklearn
+
+### Вывод
+Обучено три модели.
+Полученно значение Accuracy на тестовой выборке 0.793
