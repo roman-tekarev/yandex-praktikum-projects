@@ -1,3 +1,5 @@
+### [Nbviewer](https://nbviewer.jupyter.org/github/roman-tekarev/yandex-praktikum-projects/blob/main/car-cost/car-cost.ipynb)
+
 ## Определение стоимости автомобилей
 
 ### Задача:  
@@ -26,3 +28,7 @@ Price — цена (евро)
 
 ### Используемые библиотеки:  
 Pandas, Matplotlib, Numpy, Sklearn, LIghtGBM
+
+### Вывод
+Изучены и подготовлены данные о стоимости автомобилей на основании их характеристик.  
+Обучено три модели, определена оптимальная.  
